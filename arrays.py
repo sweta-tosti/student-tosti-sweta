@@ -37,7 +37,6 @@ print(song_fav)
 
 #Display the length of the array.
 
-print(len(song_fav))
 
 
 
