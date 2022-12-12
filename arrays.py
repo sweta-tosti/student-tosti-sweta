@@ -36,6 +36,12 @@ song_fav.pop(2)
 print(song_fav)
 
 #Display the length of the array.
+print(song_fav.append("Tum ho"))
+
+print(len(song_fav))c
+
+print(song_fav)
+
 
 
 
