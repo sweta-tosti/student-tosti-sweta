@@ -38,7 +38,7 @@ print(song_fav)
 #Display the length of the array.
 print(song_fav.append("Tum ho"))
 
-print(len(song_fav))c
+print(len(song_fav))
 
 print(song_fav)
 
